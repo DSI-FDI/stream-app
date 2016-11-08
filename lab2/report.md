@@ -1,7 +1,6 @@
 ---
 title: Project 2 - Video Broadcasting with _Stream_
-authors:
-
+author:
   - García Castillo, Pedro
   - García Ferreiro, Jorge
   - Reyes Parrilla, Daniel
