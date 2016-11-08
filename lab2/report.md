@@ -13,28 +13,36 @@ _Stream_ is a real-time broadcasting app, targeted for mobile devices on the web
 
 ## Changes from the previous version
 
-There were some minor changes in functionality and design with respect to the previous assignment. Firstly, added a profile page, so that the user can see his or her personal data and edit it. Secondly, we improved the representation of the group popup, adding the additional steps that were assumed and missing in the video. Lastly, we added some additional steps to the video page as well, to represent the empty fields and how they get filled.
+There were some minor changes in functionality and design with respect to the previous assignment. Firstly, added a profile page, so that the user can see his or her personal data and edit it.
 
-![Add your information in the profile page](img/profile.jpeg)
+![Add your information in the profile page](img/profile.jpeg){width=50% height=50%}
 
-![Edit the groups to broadcast to](img/groups_mod.jpeg)
+Secondly, we improved the representation of the group popup, adding the additional steps that were assumed and missing in the video.
 
-![Customize your broadcast](img/pre_broadcast.jpeg)
+![Customize your broadcast](img/pre_broadcast.jpeg){width=50% height=50%}
+
+Lastly, we added some additional steps to the video page as well, to represent the empty fields and how they get filled.
+
+![Edit the groups to broadcast to](img/groups_mod.jpeg){height=50%}
+
+\pagebreak
 
 ## Innovative interface elements
 
 The main innovation this application presents is the ability to easily broadcast to any group of people the user knows from anywhere in the app with the push of a button:
 
-![Press the _Go Live_ button to start a broadcast!](img/broadcast_button.jpeg)
+![Press the _Go Live_ button to start a broadcast!](img/broadcast_button.jpeg){width=70% height=40%}
 
 In addition to that, we created a clean view of the broadcasts that other people have shared with the user orderded by date.
 
-![See the streams of the people you care about](img/stream_view.jpeg)
+![See the streams of the people you care about](img/stream_view.jpeg){height=50%}
+
+\pagebreak
 
 Our last major innovation is the categories system, which provides the users with an easy and intuitive way of managing their past broadcasts.
 
-![Manage your past streams with the categories system](img/categories_view.jpeg)
+![Manage your past streams with the categories system](img/categories_view.jpeg){height=50%}
 
 Other elements we incorporate from the application ecosystem are the burger menu to access different parts of the app, the comment system in the video page, and a simple profile page.
 
-![Various well-known elements](img/ecosystem.jpeg)
+![Various well-known elements](img/ecosystem.jpeg){height=50%}
