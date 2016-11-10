@@ -1,2 +1,3 @@
-# dsi-projects
-A repository for the Development of Interactive Systems course
+# DSI Stream first project
+
+A repository for the first project of DSI course.
