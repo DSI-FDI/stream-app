@@ -18,7 +18,7 @@ We focused on giving total control over the groups you share the broadcasts with
 
 ## Changes from the previous version
 
-There are some minor changes in functionality and design with respect to the previous assignment. Firstly, We added a profile page, so that the user can see and edit his personal.
+There are some minor changes in functionality and design with respect to the previous assignment. Firstly, we added a profile page, so that the users can see and edit their personal data.
 
 ![Add your information in the profile page](img/profile.jpeg){width=50% height=50%}
 
@@ -44,7 +44,7 @@ In addition to that, we created a clean view of the broadcasts, ordered by date,
 
 \pagebreak
 
-Our last major innovation is the categories system, which provides the users with an easy and intuitive way of managing their past broadcasts.
+Our last major innovation is the categories system, which provides the users an easy and intuitive way of managing their past broadcasts.
 
 ![Manage your past streams with the categories system](img/categories_view.jpeg){height=50%}
 
