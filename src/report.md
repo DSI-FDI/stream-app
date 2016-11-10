@@ -12,7 +12,7 @@ _Stream_ is a real-time broadcasting app, targeted for mobile devices on the web
 
 ## Changes from the previous version
 
-There were some minor changes in functionality and design with respect to the previous assignment. Firstly, added a profile page, so that the user can see his or her personal data and edit it.
+There were some minor changes in functionality and design with respect to the previous assignment. Firstly, added a window where the user can see his or her personal data and edit it.
 
 ![Add your information in the profile page](img/profile.jpeg){width=50% height=50%}
 
@@ -38,7 +38,7 @@ In addition to that, we created a clean view of the broadcasts that other people
 
 \pagebreak
 
-Our last major innovation is the categories system, which provides the users with an easy and intuitive way of managing their past broadcasts.
+Our last major innovation is the categories system, which provides the users an easy and intuitive way of managing their past broadcasts.
 
 ![Manage your past streams with the categories system](img/categories_view.jpeg){height=50%}
 
